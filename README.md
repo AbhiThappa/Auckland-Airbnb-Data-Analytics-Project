@@ -381,7 +381,7 @@ This project demonstrates practical experience with:
 
  Data Analyst intern | SQL | Power BI | Excel | Python
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/AbhiThappa/Auckland-Airbnb-Data-Analytics-Project.git)
 
 LinkedIn: www.linkedin.com/in/abhishek-thappa1122
 
